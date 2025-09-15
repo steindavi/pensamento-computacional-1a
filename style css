@@ -2,3 +2,20 @@
 color:green
 background:purple
 }
+header{
+border-bottom: solid 2px rgb(42, 122, 228);
+padding:
+
+
+
+section {
+background: rgb (010, 101, 001);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
+}
